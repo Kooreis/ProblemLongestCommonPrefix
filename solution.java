@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Enter the number of strings:");
         int n = scanner.nextInt();
         scanner.nextLine();
+        String[] strs = new String[n];
     }
 }
